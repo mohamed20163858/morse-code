@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Morse Code
-> Build a morse decoder-script to decode any given message written in morse code this is done by writing 3 methods decode_char, decode_word, and decode.
+> Build a morse decoder-script to decode any given message written in morse code. This is done by writing 3 methods decode_char, decode_word, and decode.
 decode_char is used to transform any morse code letter into English.
 decode_word use the decode_char method to transform any given morse code word into an English word.
 decode use the decode_word method to translate any given morse code message into an English message.
